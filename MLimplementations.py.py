@@ -397,33 +397,9 @@ ax.set_ylabel('accuracy')
 ax.set_title('histogram of accuracy for different N')
 fig.tight_layout()
 plt.show()
+   
 
-
-
-
-
-
-#    
-#    
-#    
-#    
-#    
-#    
-#    
-##    #
-##    ###svm
-##    #
-
-#
-#
-##
-##
-##
 ##plotting the accuracy various machinelearning algorithms
-x=np.array([2,4,6,8,10,12])
-nb=np.array([0.884182174339,0.83136877555929756,0.81660231660231664,0.821042281219,0.807617661329,0.771598808342])
-k=np.array([83,89,88,88,88.7,88.8])
-svm=np.array([88.7,88.2,88.5,89,88.8,88.8])
 plt.title('accuracy for Ml algorithms')
 plt.xlabel('correlated variables')
 plt.ylabel('accuracy')
