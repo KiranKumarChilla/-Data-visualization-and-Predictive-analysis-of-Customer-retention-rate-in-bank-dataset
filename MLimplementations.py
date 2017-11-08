@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
 
-//dataset path 
+#dataset path 
 input = open('C:\\Users\\chill\\Desktop\\fall2016\\Artificial intelligence-2\\assignments\\project\\bank-additional-full.txt')
 i=0
 #foormatting input data to rows and columns
