@@ -1,6 +1,14 @@
-•	Single handedly, performed research on bank dataset to find the most efficient and optimized solution to predict the factors that affected the customer retention rate using machine learning algorithms like Naïve Bayes, K-Means and SVM and neural networks in python.
-•	Commensurate the accuracies of algorithms with code-generated graphs, which showed Neural networks as the best algorithm with 90% accuracy.
- Data is collected from  http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
-It has a total of 41,188 records and 20 inputs from May 2008-Nov 2010
+The listed files include  
+  1. project report has detailed analysis of dataset and information related to implementation.
+  2. comparison of accuracies graph
+  3.Python codes(MLProject.py includes implementation of K-means,SVM and Naive bayes,NeuralNetworks.py has implementation of neural             networks) 
 
-The listed files include project report, comparison of accuracies of above machine learning algorithms
+=> Single handedly, performed research on bank dataset to find 
+   1. factors affecting customer retention rate
+   2. most efficient and optimized solution to predict the factors by using results generated from various machine learning                      algorithms like Naive Bayes, K-Means, SVM and neural networks.
+=> Commensurate the accuracies of algorithms with code-generated graphs, which showed Neural networks as the best algorithm with maximum      accuracy.
+=> Software/Tools Used: Python, Scikit-learn, NumPy, Spyder IDE, SciPy, matplotlib; 
+   Dataset used is available at  http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+
+
+
