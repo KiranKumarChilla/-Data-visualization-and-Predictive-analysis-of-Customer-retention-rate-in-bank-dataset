@@ -1,6 +1,6 @@
 The listed files include  
   1. project report has detailed analysis of dataset and information related to implementation.
-  2. comparison of accuracies graph
+  2. comparison of accuracies graph.
   3.Python codes(MLProject.py includes implementation of K-means,SVM and Naive bayes,NeuralNetworks.py has implementation of neural             networks) 
 
 => Single handedly, performed research on bank dataset to find 
